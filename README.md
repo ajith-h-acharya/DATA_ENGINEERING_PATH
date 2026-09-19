@@ -1,6 +1,7 @@
-﻿# DATA_ENGINEERING_PATH
-goal of the repo:
-  as i am part of skill lab i want to document what i will be learning in the throught my journey and 
-  yes i even belive people who ever thinking of joining the skill 60 but couldn't make can also refer 
-  the contents and learn thing on their on pace 
-  
+﻿# # # # #__ DATA_ENGINEERING_PATH __# # # # #
+This repo is a pledge that i have taken to be consistent in learning to become a data engineer .I will
+to comiting all the learning and practice code 
+this repo will help people who are also thinking to learn about data engineering and what specific thing one should learn to become a data engineer
+
+# Building Brick By Brick #
+# Stronger and Smarter and being consistent #
